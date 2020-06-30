@@ -1,0 +1,31 @@
+
+#photo-template {
+    background-color: #eee;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    height: 320px;
+  }
+  #photo-template h2 {
+    background-color: #b7efcd;
+    border-radius: 10%;
+  }
+  
+  #imgId {
+    border-radius: 2%;
+    box-shadow: 0 5px 5px 0 black;
+  }
+  div p {
+    font-size: 10px;
+    line-height: 1em;
+    text-align: center;
+    /* border:1px solid red; */
+     font-weight: 100;
+        
+  }
+/* 
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+   */

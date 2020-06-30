@@ -1,0 +1,26 @@
+
+#photo-template {
+    width: 20%;
+    margin: 15px;
+
+  }
+  #photo-template h2 {
+    margin: 12px;
+    text-align: center;
+   
+  }
+  
+  #photo-template img {
+    margin:1% 15%;
+    width: 65%;
+    height: 65%;
+  }
+  #imgId {
+    margin: auto 5%;
+  }
+  div p {
+    margin: 12% auto;
+    text-align: center;
+  
+  }
+  
